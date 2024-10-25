@@ -5,11 +5,22 @@
 }
 
 .cky-notice .cky-title,
-.cky-notice-des {
+.cky-notice-des,
+.cky-accordion-header-des,
+.cky-accordion-header .cky-accordion-btn,
+.cky-preference-content-wrapper {
     color: #FFF !important;
 }
+
 .cky-btn:last-child {
     color: #212121 !important;
     border-color: rgb(29, 188, 131) !important;
     background-color: rgb(29, 188, 131) !important;
+}
+
+.cky-consent-container.cky-classic-bottom.cky-consent-bar-expand .cky-preference-wrapper,
+.cky-preference-center,
+.cky-audit-table {
+    color: #FFF !important;
+    background-color: #212121 !important;
 }
