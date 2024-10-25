@@ -29,6 +29,7 @@
     background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #212121 100%) !important;
 }
 
+.cky-preference-content-wrapper .cky-show-desc-btn,
 button.cky-show-desc-btn:not(:hover):not(:active) {
     color: rgb(29, 188, 131) !important;
 }
